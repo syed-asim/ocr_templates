@@ -1,0 +1,48 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python Imaging Library (PIL) / Pillow
+*.pil
+*.PIL
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# IDE and editor files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~.nfs*
+*.db
+*.sqlite3
+*.sqlite
+*.db-shm
+*.db-wal
+
+# Testing
+test_*.py
+*_test.py
+*_test_*.py
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Dependency directories
+lib/
+lib64/
